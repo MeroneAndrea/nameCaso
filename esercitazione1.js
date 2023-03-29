@@ -10,4 +10,4 @@ voti eliminate
 • Per esempio, elimino un 18, inserico un 30; elimino un 20, inserisco un 28; ecc.
 o Stampare a schermo entrami gli array e confrontate i voti prima e dopo i
 “miglioramenti”, mostrando anche la media (arrotondata) in entrambi i casi
-*/
+*/aaaaaaaaaaaaa
